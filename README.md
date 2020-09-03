@@ -14,5 +14,3 @@ Value entered: 5
 ## Hints
 * Run your code with: `python my_code.py` or the run button
 * Run your tests with: `pytest`
-
-test
