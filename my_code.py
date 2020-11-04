@@ -8,6 +8,5 @@ def times_3(number):
 
 
 if __name__ == '__main__':
-
     x = input("Enter a number: ")
     print(times_3(x))
